@@ -13,8 +13,8 @@ for giving custion modify tests.txt as follow :
 
 #####for each test 
 
-$~~~~~$  Regular Expression 
-$~~~~~$  then String
+    Regular Expression 
+    then String
 
 ##### for given test cases : 
     test1 takes less than 2 second
@@ -24,14 +24,14 @@ $~~~~~$  then String
     test5 takes less than 20 second
 
 NFA class : 
-$~~~~~$```state *init(string reg_expression)``` used to create regular expression to NFA
-$~~~~~$```vector<string> parse(string s)``` used for parsing
+    ```state *init(string reg_expression)``` used to create regular expression to NFA
+    ```vector<string> parse(string s)``` used for parsing
 
 DFA class :
-$~~~~~$constructor ```DFA(DFA &dfa1, DFA &dfa2)``` used to find DFA using product construction.
-$~~~~~$constructor ```DFA(DFA &dfa``` used to find minimum of DFA
-$~~~~~$```void init(state *start, NFA &nfa)``` used to find DFA from NFA
-$~~~~~$```void MakeComplement()``` used to create complement of DFA
+    constructor ```DFA(DFA &dfa1, DFA &dfa2)``` used to find DFA using product construction.
+    constructor ```DFA(DFA &dfa``` used to find minimum of DFA
+    ```void init(state *start, NFA &nfa)``` used to find DFA from NFA
+    ```void MakeComplement()``` used to create complement of DFA
 
 ```bool dfacheck(set<int> st, string s, DFA &dfa)``` is used to check validity of the final DFA
 
