@@ -7,7 +7,7 @@
 #### run command -> ``` make build ``` or ``` make ```
 
 #### input is taken from tests.txt file
-for giving custion modify tests.txt as follow : 
+for giving custom input modify tests.txt as follow : 
 
 ##### on first line write number of test cases
 
