@@ -9,9 +9,9 @@
 #### input is taken from tests.txt file
 for giving custion modify tests.txt as follow : 
 
-#####on first line write number of test cases
+##### on first line write number of test cases
 
-#####for each test 
+##### for each test 
 
     Regular Expression 
     then String
