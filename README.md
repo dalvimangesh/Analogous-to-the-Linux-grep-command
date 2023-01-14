@@ -6,17 +6,17 @@
 
 #### run command -> ``` make build ``` or ``` make ```
 
-#### input is taken from tests.txt file
-for giving custom input modify tests.txt as follow : 
+#### Input is taken from tests.txt file
+For giving custom input modify tests.txt as follow : 
 
-##### on first line write number of test cases
+##### On first line write number of test cases
 
-##### for each test 
+##### For each test 
 
     Regular Expression 
     then String
 
-##### for given test cases : 
+##### For given test cases : 
     test1 takes less than 2 second
     test2 takes less than 2 second
     test3 takes less than 2 second
@@ -35,6 +35,8 @@ DFA class :
 
 ```bool dfacheck(set<int> st, string s, DFA &dfa)``` is used to check validity of the final DFA
 
-reference:
+Reference:
     for finding subsets
     https://www.geeksforgeeks.org/find-distinct-subsets-given-set/
+
+#### Thanks
