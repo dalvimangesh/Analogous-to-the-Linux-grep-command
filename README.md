@@ -1,4 +1,5 @@
-# Theory-of-Computation---grep
+# Theory-of-Computation
+## Analogous to the Linux grep command
 
 ## Name : Mangesh Dalvi
 
