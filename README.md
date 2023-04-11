@@ -1,9 +1,12 @@
 # Theory of Computation
 Analogous to the Linux grep command
 
-## Name : Mangesh Dalvi
 
-## Roll No : 112001010
+
+
+### Name : Mangesh Dalvi
+
+### Roll No : 112001010
 
 #### run command -> ``` make build ``` or ``` make ```
 
